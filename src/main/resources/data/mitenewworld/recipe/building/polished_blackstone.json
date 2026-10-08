@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 1600,
+  "category": "building",
+  "key": {
+    "S": "minecraft:blackstone"
+  },
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:polished_blackstone"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 120,
+  "category": "misc",
+  "key": {
+    "W": "minecraft:melon_slice"
+  },
+  "pattern": [
+    "W"
+  ],
+  "result": {
+    "id": "minecraft:melon_seeds"
+  }
+}

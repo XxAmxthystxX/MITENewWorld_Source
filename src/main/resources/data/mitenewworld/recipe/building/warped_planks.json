@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 400,
+  "category": "building",
+  "group": "planks",
+  "key": {
+    "#": "#minecraft:warped_stems"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:warped_planks"
+  }
+}

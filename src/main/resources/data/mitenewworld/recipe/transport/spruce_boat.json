@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": "minecraft:spruce_planks"
+  },
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:spruce_boat"
+  }
+}

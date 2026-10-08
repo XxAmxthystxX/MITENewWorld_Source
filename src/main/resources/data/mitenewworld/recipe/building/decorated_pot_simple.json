@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 240,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:brick"
+  },
+  "pattern": [
+    " # ",
+    "# #",
+    " # "
+  ],
+  "result": {
+    "id": "minecraft:decorated_pot"
+  }
+}

@@ -1,0 +1,17 @@
+
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:resin_block"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:resin_clump"
+  }
+}

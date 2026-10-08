@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 720,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:bricks"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:brick_wall"
+  }
+}

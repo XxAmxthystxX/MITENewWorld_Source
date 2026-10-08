@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "light_gray_dye",
+  "key": {
+    "W": "minecraft:white_tulip"
+  },
+  "pattern": [
+    "W"
+  ],
+  "result": {
+    "id": "minecraft:light_gray_dye"
+  }
+}

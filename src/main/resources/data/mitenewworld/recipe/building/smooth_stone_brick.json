@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "building",
+  "key": {
+    "M": "minecraft:smooth_stone_slab"
+  },
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:smooth_stone_brick"
+  }
+}

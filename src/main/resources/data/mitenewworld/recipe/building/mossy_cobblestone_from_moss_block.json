@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 240,
+  "category": "building",
+  "group": "mossy_cobblestone",
+  "key": {
+    "W": "minecraft:cobblestone",
+    "E": "minecraft:moss_block"
+  },
+  "pattern": [
+    "WE"
+  ],
+  "result": {
+    "id": "minecraft:mossy_cobblestone"
+  }
+}

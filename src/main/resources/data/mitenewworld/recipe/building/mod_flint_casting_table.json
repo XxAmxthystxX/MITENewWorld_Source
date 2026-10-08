@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 200,
+  "category": "building",
+  "group": "castingtable",
+  "key": {
+    "F": "minecraft:flint",
+    "W": "#minecraft:planks"
+  },
+  "pattern": [
+    "FFF",
+    " F ",
+    "WWW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_flint_casting_table"
+  }
+}

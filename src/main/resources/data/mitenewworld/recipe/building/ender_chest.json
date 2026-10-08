@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 4,
+  "craftingtick": 10800,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:obsidian",
+    "E": "minecraft:ender_eye"
+  },
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:ender_chest"
+  }
+}

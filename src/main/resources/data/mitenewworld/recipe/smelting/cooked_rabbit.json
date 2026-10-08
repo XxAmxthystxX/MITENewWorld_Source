@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "food",
+  "input": [
+    "minecraft:rabbit"
+  ],
+  "result": {
+    "id": "minecraft:cooked_rabbit"
+  },
+  "experience": 0.35,
+  "burntick": 200,
+  "furnacelevel": 1
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "building",
+  "key": {
+    "B": "mitenewworld:smooth_stone_brick"
+  },
+  "pattern": [
+    "B B",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:smooth_stone_brick_output_port"
+  }
+}

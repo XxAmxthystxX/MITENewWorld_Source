@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 200,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:bamboo_slab"
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:bamboo_mosaic"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 660,
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": "#minecraft:planks",
+    "W": "minecraft:stick"
+  },
+  "pattern": [
+    "#",
+    "W"
+  ],
+  "result": {
+    "id": "mitenewworld:wooden_cudgel"
+  }
+}

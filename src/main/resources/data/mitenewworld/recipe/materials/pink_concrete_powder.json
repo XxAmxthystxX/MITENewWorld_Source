@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "building",
+  "group": "concrete_powder",
+  "key": {
+    "#": "minecraft:pink_dye",
+    "W": "minecraft:sand",
+    "S": "minecraft:gravel"
+  },
+  "pattern": [
+    "WSW",
+    "S#S",
+    "WSW"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:pink_concrete_powder"
+  }
+}

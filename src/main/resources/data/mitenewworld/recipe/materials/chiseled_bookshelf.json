@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 900,
+  "category": "building",
+  "key": {
+    "#":  "#minecraft:planks",
+    "X":  "#minecraft:wooden_slabs"
+  },
+  "pattern": [
+    "###",
+    "XXX",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:chiseled_bookshelf"
+  }
+}

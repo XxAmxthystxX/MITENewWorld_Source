@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 1200,
+  "category": "building",
+  "key": {
+    "#": [
+      "minecraft:red_sandstone",
+      "minecraft:chiseled_red_sandstone"
+
+    ]
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:red_sandstone_slab"
+  }
+}

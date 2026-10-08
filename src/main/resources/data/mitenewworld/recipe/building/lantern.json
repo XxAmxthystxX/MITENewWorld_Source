@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 620,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:torch",
+    "X": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "id": "minecraft:lantern"
+  }
+}

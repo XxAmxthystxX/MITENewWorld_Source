@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "black_dye",
+  "key": {
+    "#": "minecraft:wither_rose"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:black_dye"
+  }
+}

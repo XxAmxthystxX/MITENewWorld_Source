@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 1200,
+  "category": "redstone",
+  "key": {
+    "G": "minecraft:glowstone",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    " R ",
+    "RGR",
+    " R "
+  ],
+  "result": {
+    "id": "minecraft:redstone_lamp"
+  }
+}

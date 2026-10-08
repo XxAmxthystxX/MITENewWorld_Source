@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 7200,
+  "category": "redstone",
+  "key": {
+    "#": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "id": "minecraft:iron_trapdoor"
+  }
+}

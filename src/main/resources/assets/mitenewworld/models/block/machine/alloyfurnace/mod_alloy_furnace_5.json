@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mitenewworld:block/machine/alloyfurnace/mod_alloy_furnace_5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "key": {
+    "H": "minecraft:honeycomb",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "S",
+    "H"
+  ],
+  "result": {
+    "id": "minecraft:candle"
+  }
+}

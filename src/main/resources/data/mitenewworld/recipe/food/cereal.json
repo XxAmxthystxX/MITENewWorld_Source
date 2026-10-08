@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 300,
+  "category": "misc",
+  "group": "food",
+  "key": {
+    "#": "mitenewworld:bowl_of_milk",
+    "W": "minecraft:wheat",
+    "S": "minecraft:sugar"
+  },
+  "pattern": [
+    "#WS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:cereal"
+  }
+}

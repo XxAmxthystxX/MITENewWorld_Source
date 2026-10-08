@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "mitenewworld:mithril"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "mitenewworld:mithril"
+      }
+    ]
+  }
+}

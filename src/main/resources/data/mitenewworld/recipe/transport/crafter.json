@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:iron_ingot",
+    "C": "minecraft:crafting_table",
+    "D": "minecraft:dropper",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "RDR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:crafter"
+  }
+}

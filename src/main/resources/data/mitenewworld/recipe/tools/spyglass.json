@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 2400,
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:amethyst_shard",
+    "X": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    " # ",
+    " X ",
+    " X "
+  ],
+  "result": {
+    "id": "minecraft:spyglass"
+  }
+}

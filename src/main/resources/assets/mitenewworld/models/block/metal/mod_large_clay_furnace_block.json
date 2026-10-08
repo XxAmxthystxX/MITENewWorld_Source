@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "mitenewworld:block/machine/furnace/large_clay/mod_large_clay_furnace_front",
+    "side": "mitenewworld:block/machine/furnace/large_clay/mod_large_clay_furnace_side",
+    "top": "mitenewworld:block/machine/furnace/large_clay/mod_large_clay_furnace_top"
+  }
+}

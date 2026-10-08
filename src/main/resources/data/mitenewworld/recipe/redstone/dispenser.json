@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 2400,
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:cobblestone",
+    "R": "minecraft:redstone",
+    "X": "minecraft:bow"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#R#"
+  ],
+  "result": {
+    "id": "minecraft:dispenser"
+  }
+}

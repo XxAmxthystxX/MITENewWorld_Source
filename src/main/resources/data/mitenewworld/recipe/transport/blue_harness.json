@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+"craftlevel": 1,
+  "craftingtick": 600,
+  "category": "equipment",
+  "group": "harness",
+  "key": {
+    "#": "minecraft:blue_wool",
+    "G": "minecraft:glass",
+    "L": "minecraft:leather"
+  },
+  "pattern": [
+    "LLL",
+    "G#G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:blue_harness"
+  }
+}

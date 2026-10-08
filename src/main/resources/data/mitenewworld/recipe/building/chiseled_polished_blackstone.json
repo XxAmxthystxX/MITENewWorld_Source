@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 1600,
+  "category": "building",
+  "key": {
+    "#": "minecraft:polished_blackstone_slab"
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:chiseled_polished_blackstone"
+  }
+}

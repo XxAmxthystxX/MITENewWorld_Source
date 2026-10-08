@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "mitenewworld:gold_ore_poor",
+    "mitenewworld:gold_ore_medium",
+    "mitenewworld:gold_ore_rich",
+    "mitenewworld:silver_ore_poor",
+    "mitenewworld:silver_ore_medium",
+    "mitenewworld:silver_ore_rich",
+    "mitenewworld:titanium_ore_poor",
+    "mitenewworld:titanium_ore_medium",
+    "mitenewworld:titanium_ore_rich",
+    "mitenewworld:mithril_ore_poor",
+    "mitenewworld:mithril_ore_medium",
+    "mitenewworld:mithril_ore_rich",
+    "mitenewworld:underground_gold_ore_poor",
+    "mitenewworld:underground_gold_ore_medium",
+    "mitenewworld:underground_gold_ore_rich",
+    "mitenewworld:underground_silver_ore_poor",
+    "mitenewworld:underground_silver_ore_medium",
+    "mitenewworld:underground_silver_ore_rich",
+    "mitenewworld:underground_titanium_ore_poor",
+    "mitenewworld:underground_titanium_ore_medium",
+    "mitenewworld:underground_titanium_ore_rich",
+    "mitenewworld:underground_mithril_ore_poor",
+    "mitenewworld:underground_mithril_ore_medium",
+    "mitenewworld:nether_titanium_ore_poor",
+    "mitenewworld:nether_titanium_ore_medium",
+    "mitenewworld:nether_titanium_ore_rich",
+    "mitenewworld:underground_diamond_ore",
+    "mitenewworld:underground_emerald_ore"
+  ]
+}

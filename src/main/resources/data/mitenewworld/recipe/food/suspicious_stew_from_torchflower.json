@@ -1,0 +1,30 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "group": "suspicious_stew",
+
+  "key": {
+    "#":"minecraft:bowl",
+    "X":"minecraft:brown_mushroom",
+    "Y": "minecraft:red_mushroom",
+    "Z": "minecraft:torchflower"
+  },
+  "pattern": [
+    "#X",
+    "YZ"
+  ],
+  "result": {
+    "components": {
+      "minecraft:suspicious_stew_effects": [
+        {
+          "duration": 100,
+          "id": "minecraft:night_vision"
+        }
+      ]
+    },
+    "count": 1,
+    "id": "minecraft:suspicious_stew"
+  }
+}

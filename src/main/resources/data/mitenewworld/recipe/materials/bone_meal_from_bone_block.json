@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 800,
+  "category": "misc",
+  "group": "bonemeal",
+  "key": {
+    "#": "minecraft:bone_block"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:bone_meal"
+  }
+}

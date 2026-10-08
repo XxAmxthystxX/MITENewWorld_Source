@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 800,
+  "category": "building",
+  "group": "crafttable",
+  "key": {
+    "#": "minecraft:leather",
+    "W": "#minecraft:planks",
+    "S": "mitenewworld:platinum_toolbox",
+    "D": "minecraft:stick"
+  },
+  "pattern": [
+    "S#",
+    "DW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_platinum_crafting_table_block"
+  }
+}

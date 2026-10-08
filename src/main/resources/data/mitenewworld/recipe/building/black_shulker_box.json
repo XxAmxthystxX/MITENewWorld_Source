@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+"craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "group": "shulker_box_dye",
+"key": {
+    "#": "#minecraft:shulker_boxes",
+"X": "minecraft:black_dye"
+ },
+  "pattern": [
+    "#X"
+  ],
+   "result": {
+ "id": "minecraft:black_shulker_box"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 900,
+  "category": "redstone",
+  "group": "wooden_trapdoor",
+  "key": {
+    "#": "minecraft:warped_planks"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:warped_trapdoor"
+  }
+}

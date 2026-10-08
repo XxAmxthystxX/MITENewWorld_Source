@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:resin_clump"
+  ],
+  "result": {
+    "id": "minecraft:resin_brick"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 1
+}

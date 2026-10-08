@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "red_dye",
+  "key": {
+    "#": "minecraft:beetroot"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:red_dye"
+  }
+}

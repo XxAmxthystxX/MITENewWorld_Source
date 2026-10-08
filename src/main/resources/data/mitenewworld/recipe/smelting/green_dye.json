@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:cactus"
+  ],
+  "result": {
+    "id": "minecraft:green_dye"
+  },
+  "experience": 1.0,
+  "burntick": 200,
+  "furnacelevel": 1
+}

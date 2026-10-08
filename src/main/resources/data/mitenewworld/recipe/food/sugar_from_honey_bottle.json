@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 1600,
+  "category": "misc",
+  "group": "sugar",
+  "key": {
+    "#": "minecraft:honey_bottle"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:sugar"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 1500,
+  "category": "building",
+  "key": {
+    "#": "minecraft:red_nether_bricks"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:red_nether_brick_slab"
+  }
+}

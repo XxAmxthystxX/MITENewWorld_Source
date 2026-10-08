@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 400,
+  "category": "misc",
+  "group": "food",
+  "key": {
+    "#": "minecraft:bowl",
+    "W": "minecraft:sugar",
+    "S": "minecraft:sweet_berries",
+    "D": "minecraft:wheat_seeds"
+  },
+  "pattern": [
+    "WS",
+    "D#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:porridge"
+  }
+}

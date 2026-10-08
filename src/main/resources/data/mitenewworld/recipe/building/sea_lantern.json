@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 320,
+  "category": "building",
+  "key": {
+    "C": "minecraft:prismarine_crystals",
+    "S": "minecraft:prismarine_shard"
+  },
+  "pattern": [
+    "SCS",
+    "CCC",
+    "SCS"
+  ],
+  "result": {
+    "id": "minecraft:sea_lantern"
+  }
+}

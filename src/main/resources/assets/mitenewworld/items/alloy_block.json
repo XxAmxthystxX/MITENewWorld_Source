@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mitenewworld:item/blockitem/alloy_block",
+    "tints": [
+      {
+        "type": "mitenewworld:alloy"
+      }
+    ]
+  }
+}

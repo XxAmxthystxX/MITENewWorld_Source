@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mitenewworld:item/tools/alloy/alloy_mattock",
+    "tints": [
+      {
+        "type": "mitenewworld:alloy"
+      }
+    ]
+  }
+}

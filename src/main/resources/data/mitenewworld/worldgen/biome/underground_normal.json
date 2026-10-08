@@ -1,0 +1,71 @@
+{
+  "carvers": "minecraft:nether_cave",
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 12434877,
+    "sky_color": 7254527,
+    "water_color": 2829099,
+    "water_fog_color": 7829367
+  },
+
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:spring_lava",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:zombie",
+        "maxCount": 12,
+        "minCount": 2,
+        "weight": 250
+      },
+      {
+        "type": "minecraft:skeleton",
+        "maxCount": 6,
+        "minCount": 2,
+        "weight": 200
+      },
+      {
+        "type": "mitenewworld:shadow_entity",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 20
+      },
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 40
+      },
+      {
+        "type": "mitenewworld:skeleton_knight_entity",
+        "maxCount": 6,
+        "minCount": 1,
+        "weight": 100
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 2.0
+}

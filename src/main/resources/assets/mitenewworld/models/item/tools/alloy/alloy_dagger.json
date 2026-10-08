@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mitenewworld:item/tools/alloy/dagger_1",
+    "layer1": "mitenewworld:item/tools/alloy/dagger_2"
+  }
+}

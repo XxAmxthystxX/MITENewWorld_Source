@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 4,
+  "craftingtick": 12000,
+  "category": "building",
+  "group": "furnace",
+  "key": {
+    "#": "minecraft:obsidian"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_obsidian_furnace_block"
+  }
+}

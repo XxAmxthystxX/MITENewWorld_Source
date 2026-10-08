@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 560,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#minecraft:wool"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:painting"
+  }
+}

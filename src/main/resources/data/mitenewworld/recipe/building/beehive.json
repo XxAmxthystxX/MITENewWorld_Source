@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 900,
+  "category": "misc",
+  "key": {
+    "H": "minecraft:honeycomb",
+    "P": "#minecraft:planks"
+  },
+  "pattern": [
+    "PPP",
+    "HHH",
+    "PPP"
+  ],
+  "result": {
+    "id": "minecraft:beehive"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 1800,
+  "category": "equipment",
+  "key": {
+    "C": "minecraft:compass",
+    "S": "minecraft:echo_shard"
+  },
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "result": {
+    "id": "minecraft:recovery_compass"
+  }
+}

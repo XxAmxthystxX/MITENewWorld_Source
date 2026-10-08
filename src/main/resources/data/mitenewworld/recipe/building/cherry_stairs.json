@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 720,
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": "minecraft:cherry_planks"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:cherry_stairs"
+  }
+}

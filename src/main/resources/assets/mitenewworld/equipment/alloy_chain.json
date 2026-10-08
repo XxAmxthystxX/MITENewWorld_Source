@@ -1,0 +1,22 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "dyeable": {},
+        "texture": "mitenewworld:alloy_chain"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "dyeable": {},
+        "texture": "mitenewworld:alloy_chain"
+      }
+    ],
+    "horse_body": [
+      {
+        "dyeable": {},
+        "texture": "mitenewworld:alloy_chain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:tnt",
+    "W": "minecraft:minecart"
+  },
+  "pattern": [
+    "#",
+    "W"
+  ],
+  "result": {
+    "id": "minecraft:tnt_minecart"
+  }
+}

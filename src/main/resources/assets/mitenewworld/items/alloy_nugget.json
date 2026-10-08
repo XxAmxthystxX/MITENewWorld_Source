@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mitenewworld:item/alloy/alloy_nugget",
+    "tints": [
+      {
+        "type": "mitenewworld:alloy"
+      }
+    ]
+  }
+}

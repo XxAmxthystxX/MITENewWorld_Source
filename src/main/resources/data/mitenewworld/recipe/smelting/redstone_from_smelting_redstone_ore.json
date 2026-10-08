@@ -1,0 +1,14 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "blocks",
+  "input": [
+    "minecraft:redstone_ore"
+  ],
+  "result": {
+    "id": "minecraft:redstone"
+  },
+  "experience": 0.7,
+  "burntick": 200,
+  "furnacelevel": 1,
+  "group": "redstone"
+}

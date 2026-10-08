@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "blocks",
+  "input": [
+    "minecraft:wet_sponge"
+  ],
+  "result": {
+    "id": "minecraft:sponge"
+  },
+  "experience": 0.15,
+  "burntick": 200,
+  "furnacelevel": 1
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 4,
+  "craftingtick": 250,
+  "category": "building",
+  "key": {
+    "B": "mitenewworld:quartz_brick"
+  },
+  "pattern": [
+    "B B",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:quartz_brick_output_port"
+  }
+}

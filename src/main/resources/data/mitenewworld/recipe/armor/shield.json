@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 1200,
+  "category": "equipment",
+  "key": {
+    "W": "#minecraft:planks",
+    "o": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    "WoW",
+    "WWW",
+    " W "
+  ],
+  "result": {
+    "id": "minecraft:shield"
+  }
+}

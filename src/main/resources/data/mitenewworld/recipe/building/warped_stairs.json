@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 900,
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": "minecraft:warped_planks"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:warped_stairs"
+  }
+}

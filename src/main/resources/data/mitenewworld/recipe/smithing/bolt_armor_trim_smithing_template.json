@@ -1,0 +1,23 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": [
+      "minecraft:copper_block",
+      "minecraft:waxed_copper_block"
+    ],
+    "S": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:bolt_armor_trim_smithing_template"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 240,
+  "category": "misc",
+  "key": {
+    "#": "mitenewworld:mod_stone_furnace_block",
+    "W": "minecraft:minecart"
+  },
+  "pattern": [
+    "#",
+    "W"
+  ],
+  "result": {
+    "id": "minecraft:furnace_minecart"
+  }
+}

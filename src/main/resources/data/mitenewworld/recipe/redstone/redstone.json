@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 300,
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:redstone_block"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:redstone"
+  }
+}

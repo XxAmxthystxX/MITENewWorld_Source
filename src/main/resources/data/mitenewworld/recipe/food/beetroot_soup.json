@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 400,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:bowl",
+    "W": "minecraft:beetroot"
+  },
+  "pattern": [
+    "###",
+    " W "
+  ],
+  "result": {
+    "id": "minecraft:beetroot_soup"
+  }
+}

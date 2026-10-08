@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 150,
+  "category": "building",
+  "key": {
+    "B": "mitenewworld:obsidian_brick"
+  },
+  "pattern": [
+    "B B",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:obsidian_brick_output_port"
+  }
+}

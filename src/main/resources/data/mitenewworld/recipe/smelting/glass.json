@@ -1,0 +1,11 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "blocks",
+  "input": "#minecraft:smelts_to_glass",
+  "result": {
+    "id": "minecraft:glass"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 1
+}

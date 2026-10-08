@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "blocks",
+  "input": [
+    "minecraft:light_blue_terracotta"
+  ],
+  "result": {
+    "id": "minecraft:light_blue_glazed_terracotta"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 2
+}

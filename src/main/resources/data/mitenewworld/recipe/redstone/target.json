@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 800,
+  "category": "redstone",
+  "key": {
+    "H": "minecraft:hay_block",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    " R ",
+    "RHR",
+    " R "
+  ],
+  "result": {
+    "id": "minecraft:target"
+  }
+}

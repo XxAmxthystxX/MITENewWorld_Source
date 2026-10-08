@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 2000,
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:turtle_scute"
+  },
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "result": {
+    "id": "minecraft:turtle_helmet"
+  }
+}

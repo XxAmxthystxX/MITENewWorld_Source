@@ -1,0 +1,8 @@
+{
+  "type": "mitenewworld:mod_ore",
+  "config": {
+    "background": "overworld",
+    "metal": "titanium",
+    "size": 5
+  }
+}

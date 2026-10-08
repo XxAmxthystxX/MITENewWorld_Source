@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 180,
+  "category": "equipment",
+  "group": "misc",
+  "key": {
+    "#": "minecraft:stick",
+    "S": "minecraft:flint",
+    "W": "mitenewworld:sinew"
+  },
+  "pattern": [
+    "S ",
+    "W#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:flint_knife"
+  }
+}

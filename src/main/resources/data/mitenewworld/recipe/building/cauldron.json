@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 12600,
+  "category": "misc",
+  "key": {
+    "#": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    "# #",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:cauldron"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 666,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:paper",
+    "W": "minecraft:wither_skeleton_skull"
+  },
+  "pattern": [
+    "W#"
+  ],
+  "result": {
+    "id": "minecraft:skull_banner_pattern"
+  }
+}

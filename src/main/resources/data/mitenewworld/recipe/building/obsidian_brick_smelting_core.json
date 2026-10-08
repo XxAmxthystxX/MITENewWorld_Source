@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 150,
+  "category": "building",
+  "key": {
+    "B": "mitenewworld:obsidian_brick"
+  },
+  "pattern": [
+    "BBB",
+    "B B",
+    "BBB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:obsidian_brick_smelting_core"
+  }
+}

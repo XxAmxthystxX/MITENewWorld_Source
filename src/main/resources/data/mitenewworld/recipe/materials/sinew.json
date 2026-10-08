@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 240,
+  "category": "misc",
+  "group": "misc",
+  "key": {
+    "#": "minecraft:leather"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 4,
+    "id": "mitenewworld:sinew"
+  }
+}

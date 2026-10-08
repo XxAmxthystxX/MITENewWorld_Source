@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 200,
+  "category": "building",
+  "group": "crafttable",
+  "key": {
+    "#": "#minecraft:logs",
+    "S": "mitenewworld:flint_knife"
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_flint_crafting_table_block"
+  }
+}

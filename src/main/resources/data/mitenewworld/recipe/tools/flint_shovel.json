@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 400,
+  "category": "equipment",
+  "group": "misc",
+  "key": {
+    "X": "minecraft:flint",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "X",
+    "S",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:flint_shovel"
+  }
+}

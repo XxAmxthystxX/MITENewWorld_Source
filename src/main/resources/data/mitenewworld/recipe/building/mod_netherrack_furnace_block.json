@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 6000,
+  "category": "misc",
+  "group": "furnace",
+  "key": {
+    "#": "minecraft:nether_brick"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_netherrack_furnace_block"
+  }
+}

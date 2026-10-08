@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 200,
+  "category": "misc",
+  "key": {
+    "#": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:gold_nugget"
+  }
+}

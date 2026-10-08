@@ -1,0 +1,8 @@
+{
+  "type": "mitenewworld:mod_ore",
+  "config": {
+    "background": "end",
+    "metal": "starlight",
+    "size": 5
+  }
+}

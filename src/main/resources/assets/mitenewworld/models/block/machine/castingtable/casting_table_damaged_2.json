@@ -1,0 +1,6 @@
+{
+  "parent": "mitenewworld:block/machine/castingtable/casting_table_base",
+  "textures": {
+    "top": "mitenewworld:block/machine/castingtable/casting_table_top_damaged_2"
+  }
+}

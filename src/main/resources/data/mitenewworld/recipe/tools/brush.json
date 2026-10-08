@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 900,
+  "category": "equipment",
+  "key": {
+    "#": "mitenewworld:alloy_ingot",
+    "I": "minecraft:stick",
+    "X": "minecraft:feather"
+  },
+  "pattern": [
+    "X",
+    "#",
+    "I"
+  ],
+  "result": {
+    "id": "minecraft:brush"
+  }
+}

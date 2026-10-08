@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "lit=false,facing=east": {
+      "model": "mitenewworld:block/wall_torch_unlit",
+      "y": 0
+    },
+    "lit=false,facing=north": {
+      "model": "mitenewworld:block/wall_torch_unlit",
+      "y": 270
+    },
+    "lit=false,facing=south": {
+      "model": "mitenewworld:block/wall_torch_unlit",
+      "y": 90
+    },
+    "lit=false,facing=west": {
+      "model": "mitenewworld:block/wall_torch_unlit",
+      "y": 180
+    },
+    "lit=true,facing=east": {
+      "model": "mitenewworld:block/wall_torch_lit",
+      "y": 0
+    },
+    "lit=true,facing=north": {
+      "model": "mitenewworld:block/wall_torch_lit",
+      "y": 270
+    },
+    "lit=true,facing=south": {
+      "model": "mitenewworld:block/wall_torch_lit",
+      "y": 90
+    },
+    "lit=true,facing=west": {
+      "model": "mitenewworld:block/wall_torch_lit",
+      "y": 180
+    }
+  }
+}

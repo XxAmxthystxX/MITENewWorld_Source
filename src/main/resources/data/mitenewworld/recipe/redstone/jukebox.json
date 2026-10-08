@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 2400,
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:planks",
+    "X": "minecraft:redstone"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:jukebox"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "white_dye",
+  "key": {
+    "#": "minecraft:bone_meal"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:white_dye"
+  }
+}

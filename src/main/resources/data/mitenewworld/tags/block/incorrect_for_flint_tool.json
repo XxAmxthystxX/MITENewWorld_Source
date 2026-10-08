@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#mitenewworld:needs_copper_tool",
+    "#mitenewworld:needs_iron_tool",
+    "#mitenewworld:needs_mithril_tool",
+    "#mitenewworld:needs_adamantium_tool",
+    "#mitenewworld:needs_ancient_metal_tool"
+
+  ]
+}

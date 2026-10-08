@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 120,
+  "category": "misc",
+  "group": "chest_boat",
+  "key": {
+    "#": "minecraft:chest",
+    "W": "minecraft:birch_boat"
+  },
+  "pattern": [
+    "#",
+    "W"
+  ],
+  "result": {
+    "id": "minecraft:birch_chest_boat"
+  }
+}

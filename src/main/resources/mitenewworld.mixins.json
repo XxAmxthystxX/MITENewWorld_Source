@@ -1,0 +1,51 @@
+{
+  "required" : true,
+  "package" : "com.mitenewworld.mixin",
+  "priority" : 1,
+  "compatibilityLevel" : "JAVA_21",
+  "mixins" : [
+    "DamageUtilMixin",
+    "DataComponentTypesMixin",
+    "ExampleMixin",
+    "FoodComponentMixin",
+    "HungerManagerMixin",
+    "recipebookmixin.RecipeGridAlignerMixin",
+    "recipebookmixin.ServerRecipeManagerMixin",
+    "servermixin.PlayerScreenHandlerMixin",
+    "servermixin.ServerPlayerEntityMixin",
+    "servermixin.ServerWorldMixin",
+    "worldmixin.AbstractFurnaceBlockMixin",
+    "worldmixin.BlocksMixin",
+    "worldmixin.CowEntityMixin",
+    "worldmixin.CraftingTableBlockMixin",
+    "worldmixin.CreeperEntityMixin",
+    "worldmixin.EatGrassGoalMixin",
+    "worldmixin.FallingBlockEntityMixin",
+    "worldmixin.FlowableFluidMixin",
+    "worldmixin.ItemsMixin",
+    "worldmixin.LeavesBlockMixin",
+    "worldmixin.LivingEntityMixin",
+    "worldmixin.MobEntityEquipmentMixin",
+    "worldmixin.OrePlacedFeaturesMixin",
+    "worldmixin.PlayerEntityMixin",
+    "worldmixin.PlayerInventoryMixin",
+    "worldmixin.PoisonStatusEffectMixin",
+    "worldmixin.SheepEntityMixin",
+    "worldmixin.VillagerEntityMixin",
+    "worldmixin.ZombieEntityMixin"
+  ],
+  "injectors" : {
+    "defaultRequire" : 1
+  },
+  "client" : [
+    "clientmixin.ClientPlayerEntityMixin",
+    "clientmixin.ClientPlayNetworkHandlerMixin",
+    "clientmixin.CreativeInventoryScreenMixin",
+    "clientmixin.InGameHudMixin",
+    "clientmixin.MinecraftClientMixin",
+    "recipebookmixin.ClientRecipeBookMixin",
+    "recipebookmixin.GhostRecipeMixin",
+    "recipebookmixin.RecipeGroupButtonWidgetMixin",
+    "recipebookmixin.SearchManagerMixin"
+  ]
+}

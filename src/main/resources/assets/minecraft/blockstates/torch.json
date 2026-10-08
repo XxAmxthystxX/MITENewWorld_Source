@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mitenewworld:block/torch_unlit"
+    },
+    "lit=true": {
+      "model" : "mitenewworld:block/torch_lit"
+    }
+  }
+}

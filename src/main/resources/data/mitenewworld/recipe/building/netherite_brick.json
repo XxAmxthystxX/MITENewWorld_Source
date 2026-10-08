@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 5,
+  "craftingtick": 300,
+  "category": "building",
+  "key": {
+    "M": "minecraft:netherite_ingot"
+  },
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:netherite_brick"
+  }
+}

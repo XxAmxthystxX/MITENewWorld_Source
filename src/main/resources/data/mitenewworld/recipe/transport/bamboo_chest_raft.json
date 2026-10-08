@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 160,
+  "category": "misc",
+  "group": "chest_boat",
+  "key": {
+    "#": "minecraft:chest",
+    "X": "minecraft:bamboo_raft"
+  },
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:bamboo_chest_raft"
+  }
+}

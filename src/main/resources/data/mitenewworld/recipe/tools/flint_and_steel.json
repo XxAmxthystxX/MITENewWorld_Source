@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 200,
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:flint",
+    "X": [
+      "mitenewworld:alloy_nugget",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "pattern": [
+    "X ",
+    " #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:flint_and_steel"
+  }
+}

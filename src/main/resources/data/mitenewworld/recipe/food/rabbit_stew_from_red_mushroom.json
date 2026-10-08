@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 450,
+  "category": "misc",
+  "group": "rabbit_stew",
+  "key": {
+    "#": "minecraft:baked_potato",
+    "W": "minecraft:cooked_rabbit",
+    "E": "minecraft:bowl",
+    "R": "minecraft:carrot",
+    "S": "minecraft:red_mushroom"
+  },
+  "pattern": [
+    "#WR",
+    "SE "
+  ],
+  "result": {
+    "id": "minecraft:rabbit_stew"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "building",
+  "group": "dry_ghast",
+  "key": {
+    "#": "minecraft:ghast_tear",
+    "X": "minecraft:soul_sand"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:dried_ghast"
+  }
+}

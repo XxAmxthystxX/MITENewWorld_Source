@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 800,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:raw_copper_block"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:raw_copper"
+  }
+}

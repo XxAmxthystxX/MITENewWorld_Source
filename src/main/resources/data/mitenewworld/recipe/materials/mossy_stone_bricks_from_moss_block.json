@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 240,
+  "category": "building",
+  "group": "mossy_stone_bricks",
+  "key": {
+    "W": "minecraft:stone_bricks",
+    "E": "minecraft:moss_block"
+  },
+  "pattern": [
+    "WE"
+  ],
+  "result": {
+    "id": "minecraft:mossy_stone_bricks"
+  }
+}

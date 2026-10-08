@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "orange_dye",
+  "key": {
+    "#": "minecraft:red_dye",
+    "E": "minecraft:yellow_dye"
+  },
+  "pattern": [
+    "E#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:orange_dye"
+  }
+}

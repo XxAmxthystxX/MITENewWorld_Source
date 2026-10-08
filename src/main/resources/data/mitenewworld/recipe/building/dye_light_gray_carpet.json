@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "carpet_dye",
+  "key": {
+    "#": "minecraft:light_gray_dye",
+    "W": "#minecraft:wool_carpets"
+  },
+  "pattern": [
+    "#W"
+  ],
+  "result": {
+    "id": "minecraft:light_gray_carpet"
+  }
+}

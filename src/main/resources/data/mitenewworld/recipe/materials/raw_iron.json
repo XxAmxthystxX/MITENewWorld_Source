@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 1200,
+  "category": "misc",
+  "key": {
+    "#": "mitenewworld:raw_iron_block"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "mitenewworld:raw_iron"
+  }
+}

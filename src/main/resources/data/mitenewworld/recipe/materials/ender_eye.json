@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 240,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:ender_pearl",
+    "W": "minecraft:blaze_powder"
+  },
+  "pattern": [
+    "#W"
+  ],
+  "result": {
+    "id": "minecraft:ender_eye"
+  }
+}

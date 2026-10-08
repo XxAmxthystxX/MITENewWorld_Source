@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "food",
+  "input": [
+    "minecraft:porkchop"
+  ],
+  "result": {
+    "id": "minecraft:cooked_porkchop"
+  },
+  "experience": 0.35,
+  "burntick": 200,
+  "furnacelevel": 1
+}

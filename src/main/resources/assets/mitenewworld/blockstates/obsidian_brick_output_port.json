@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mitenewworld:block/brick/obsidian_brick_output_port"
+    },
+    "facing=east": {
+      "model": "mitenewworld:block/brick/obsidian_brick_output_port",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mitenewworld:block/brick/obsidian_brick_output_port",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mitenewworld:block/brick/obsidian_brick_output_port",
+      "y": 270
+    }
+  }
+}

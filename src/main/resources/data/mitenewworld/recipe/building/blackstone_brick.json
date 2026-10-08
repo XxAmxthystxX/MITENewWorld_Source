@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 200,
+  "category": "building",
+  "key": {
+    "M": "minecraft:blackstone_slab"
+  },
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:blackstone_brick"
+  }
+}

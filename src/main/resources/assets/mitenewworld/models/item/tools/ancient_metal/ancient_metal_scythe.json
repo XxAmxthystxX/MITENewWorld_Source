@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mitenewworld:item/tools/ancient_metal/ancient_metal_scythe"
+  }
+}

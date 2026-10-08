@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 360,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:gunpowder",
+    "W": "minecraft:blaze_powder",
+    "E": [
+      "minecraft:coal",
+      "minecraft:charcoal"
+    ]
+  },
+  "pattern": [
+    "#WE"
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:fire_charge"
+  }
+}

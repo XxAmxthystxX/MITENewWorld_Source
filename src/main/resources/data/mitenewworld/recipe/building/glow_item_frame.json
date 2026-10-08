@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 120,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:item_frame",
+    "W": "minecraft:glow_ink_sac"
+  },
+  "pattern": [
+    "W#"
+  ],
+  "result": {
+    "id": "minecraft:glow_item_frame"
+  }
+}

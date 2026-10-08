@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mitenewworld:block/machine/portal/void_gate"
+    }
+  }
+}

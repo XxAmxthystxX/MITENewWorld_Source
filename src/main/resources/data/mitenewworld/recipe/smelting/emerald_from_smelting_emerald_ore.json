@@ -1,0 +1,14 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:emerald_ore"
+  ],
+  "result": {
+    "id": "minecraft:emerald"
+  },
+  "experience": 1.0,
+  "burntick": 200,
+  "furnacelevel": 2,
+  "group": "emerald"
+}

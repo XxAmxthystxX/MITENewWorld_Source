@@ -1,0 +1,15 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 900,
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:stone"
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "minecraft:stone_pressure_plate"
+  }
+}

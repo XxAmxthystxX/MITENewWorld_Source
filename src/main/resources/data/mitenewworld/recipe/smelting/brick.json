@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:clay_ball"
+  ],
+  "result": {
+    "id": "minecraft:brick"
+  },
+  "experience": 0.3,
+  "burntick": 200,
+  "furnacelevel": 1
+}

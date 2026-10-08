@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 240,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:hopper",
+    "W": "minecraft:minecart"
+  },
+  "pattern": [
+    "#",
+    "W"
+  ],
+  "result": {
+    "id": "minecraft:hopper_minecart"
+  }
+}

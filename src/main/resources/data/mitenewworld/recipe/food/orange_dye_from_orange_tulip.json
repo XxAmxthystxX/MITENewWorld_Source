@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "orange_dye",
+  "key": {
+    "#": "minecraft:orange_tulip"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:orange_dye"
+  }
+}

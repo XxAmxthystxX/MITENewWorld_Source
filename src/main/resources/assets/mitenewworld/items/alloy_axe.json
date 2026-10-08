@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mitenewworld:item/tools/alloy/alloy_axe",
+    "tints": [
+      {
+        "type": "mitenewworld:alloy"
+      }
+    ]
+  }
+}

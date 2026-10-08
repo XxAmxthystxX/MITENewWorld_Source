@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "active=false,phase=0": {
+      "model": "mitenewworld:block/misc/world_breaker_unactive"
+    },
+    "active=false,phase=1": {
+      "model": "mitenewworld:block/misc/world_breaker_unactive"
+    },
+    "active=false,phase=2": {
+      "model": "mitenewworld:block/misc/world_breaker_unactive"
+    },
+    "active=false,phase=3": {
+      "model": "mitenewworld:block/misc/world_breaker_unactive"
+    },
+    "active=false,phase=4": {
+      "model": "mitenewworld:block/misc/world_breaker_unactive"
+    },
+    "active=true,phase=0": {
+      "model": "mitenewworld:block/misc/world_breaker_active_1"
+    },
+    "active=true,phase=1": {
+      "model": "mitenewworld:block/misc/world_breaker_active_1"
+    },
+    "active=true,phase=2": {
+      "model": "mitenewworld:block/misc/world_breaker_active_2"
+    },
+    "active=true,phase=3": {
+      "model": "mitenewworld:block/misc/world_breaker_active_3"
+    },
+    "active=true,phase=4": {
+      "model": "mitenewworld:block/misc/world_breaker_active_4"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "yellow_dye",
+  "key": {
+    "#": "minecraft:yellow_dye"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:yellow_dye"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:honey_block",
+    "W": "minecraft:glass_bottle"
+  },
+  "pattern": [
+    " W ",
+    "W#W",
+    " W "
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:honey_bottle"
+  }
+}

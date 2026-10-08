@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "food",
+  "input": [
+    "minecraft:kelp"
+  ],
+  "result": {
+    "id": "minecraft:dried_kelp"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 1
+}

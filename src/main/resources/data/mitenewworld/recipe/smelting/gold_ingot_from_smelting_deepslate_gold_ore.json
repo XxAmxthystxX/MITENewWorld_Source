@@ -1,0 +1,14 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:deepslate_gold_ore"
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot"
+  },
+  "experience": 1.0,
+  "burntick": 200,
+  "furnacelevel": 1,
+  "group": "gold_ingot"
+}

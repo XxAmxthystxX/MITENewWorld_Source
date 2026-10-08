@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mitenewworld:item/buckets/ancient_metal/stone_ancient_metal_bucket"
+  }
+}

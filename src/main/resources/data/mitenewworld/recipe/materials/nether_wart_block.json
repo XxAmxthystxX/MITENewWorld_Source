@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 160,
+  "category": "building",
+  "key": {
+    "W": "minecraft:nether_wart"
+  },
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "result": {
+    "id": "minecraft:nether_wart_block"
+  }
+}

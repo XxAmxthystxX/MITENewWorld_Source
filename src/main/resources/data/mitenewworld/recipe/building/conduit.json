@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 4,
+  "craftingtick": 3600,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:nautilus_shell",
+    "X": "minecraft:heart_of_the_sea"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:conduit"
+  }
+}

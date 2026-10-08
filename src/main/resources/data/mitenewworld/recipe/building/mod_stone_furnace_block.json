@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 3000,
+  "category": "building",
+  "group": "furnace",
+  "key": {
+    "#": "minecraft:cobblestone"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_stone_furnace_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mitenewworld:item/armor/rusted_iron/rusted_iron_chain_boots",
+    "layer1": "minecraft:trims/items/boots_trim_emerald"
+  }
+}

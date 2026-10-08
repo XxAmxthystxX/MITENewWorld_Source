@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mitenewworld:block/ore/mithril_ore_rich"
+    }
+  }
+}

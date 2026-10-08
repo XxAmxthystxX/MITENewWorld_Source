@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 900,
+  "category": "redstone",
+  "group": "wooden_door",
+  "key": {
+    "#": "minecraft:warped_planks"
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:warped_door"
+  }
+}

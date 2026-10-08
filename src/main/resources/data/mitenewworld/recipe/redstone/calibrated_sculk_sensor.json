@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:amethyst_shard",
+    "X": "minecraft:sculk_sensor"
+  },
+  "pattern": [
+    " # ",
+    "#X#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:calibrated_sculk_sensor"
+  }
+}

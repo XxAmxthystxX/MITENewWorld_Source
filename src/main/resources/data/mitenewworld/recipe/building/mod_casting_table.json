@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "mitenewworld:smooth_stone_brick",
+    "I": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    "BBB",
+    "I I",
+    "I I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_casting_table",
+    "components": {
+      "mitenewworld:casting_table": {
+        "metals": {
+          "copper": 1.0
+        },
+        "level": 1,
+        "max_durability": 100.0,
+        "durability": 100.0
+      }
+    }
+  }
+}

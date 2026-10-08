@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "blue_dye",
+  "key": {
+    "#": "minecraft:cornflower"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:blue_dye"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+"craftlevel": 1,
+  "craftingtick": 600,
+  "category": "building",
+  "key": {
+"#": "minecraft:packed_ice"
+  },
+  "pattern": [
+    "###",
+"###",
+"###"
+  ],
+   "result": {
+    "count": 1,
+    "id": "minecraft:blue_ice"
+  }
+}

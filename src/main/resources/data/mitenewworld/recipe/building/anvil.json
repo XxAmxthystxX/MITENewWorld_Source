@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+"craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "key": {
+    "I": "minecraft:iron_block",
+    "i": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "III",
+    " i ",
+    "iii"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:anvil"
+  }
+}

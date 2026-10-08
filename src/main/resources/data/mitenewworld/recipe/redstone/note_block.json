@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 1600,
+  "category": "redstone",
+  "key": {
+    "#": "#minecraft:planks",
+    "X": "minecraft:redstone"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:note_block"
+  }
+}

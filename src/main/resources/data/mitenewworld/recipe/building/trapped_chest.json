@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 420,
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:chest",
+    "W": "minecraft:tripwire_hook"
+  },
+  "pattern": [
+    "W#"
+  ],
+  "result": {
+    "id": "minecraft:trapped_chest"
+  }
+}

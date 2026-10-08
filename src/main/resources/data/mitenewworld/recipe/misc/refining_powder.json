@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 200,
+  "category": "misc",
+  "group": "misc",
+  "key": {
+    "C": "mitenewworld:calcite_fragment",
+    "B": "minecraft:bone_meal"
+  },
+  "pattern": [
+    "C",
+    "B",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:refining_powder"
+  }
+}

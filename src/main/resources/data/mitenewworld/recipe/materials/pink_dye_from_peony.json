@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "pink_dye",
+  "key": {
+    "#": "minecraft:peony"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:pink_dye"
+  }
+}

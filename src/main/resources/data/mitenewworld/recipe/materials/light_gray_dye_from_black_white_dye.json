@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "light_gray_dye",
+  "key": {
+    "W": "minecraft:black_dye",
+    "E": "minecraft:white_dye",
+    "R": "minecraft:white_dye"
+  },
+  "pattern": [
+    "WE",
+    "R "
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:light_gray_dye"
+  }
+}

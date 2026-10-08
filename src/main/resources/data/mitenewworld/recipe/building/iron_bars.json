@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 10800,
+  "category": "misc",
+  "key": {
+    "#": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:iron_bars"
+  }
+}

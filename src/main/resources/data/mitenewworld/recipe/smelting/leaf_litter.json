@@ -1,0 +1,11 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "blocks",
+  "input": "#minecraft:leaves",
+  "result": {
+    "id": "minecraft:leaf_litter"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 1
+}

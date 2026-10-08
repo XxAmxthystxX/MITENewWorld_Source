@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mitenewworld:item/buckets/adamantium/adamantium_bucket"
+  }
+}

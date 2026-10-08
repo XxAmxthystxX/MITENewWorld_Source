@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:pumpkin",
+    "W": "minecraft:sugar",
+    "E": "minecraft:egg",
+    "F": "mitenewworld:dough"
+  },
+  "pattern": [
+    "FFF",
+    "#WE",
+    "FFF"
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:pumpkin_pie"
+  }
+}

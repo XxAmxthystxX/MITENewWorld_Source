@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 5,
+  "craftingtick": 89000,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:prismarine_bricks",
+    "W": "minecraft:heart_of_the_sea",
+    "S": "minecraft:diamond_block"
+  },
+  "pattern": [
+    "#S#",
+    "SWS",
+    "#S#"
+  ],
+  "result": {
+    "id": "mitenewworld:world_breaker"
+  }
+}

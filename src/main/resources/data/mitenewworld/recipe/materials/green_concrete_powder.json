@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "building",
+  "group": "concrete_powder",
+  "key": {
+    "#": "minecraft:green_dye",
+    "W": "minecraft:sand",
+    "X": "minecraft:gravel"
+  },
+  "pattern": [
+    "WXW",
+    "X#X",
+    "WXW"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:green_concrete_powder"
+  }
+}

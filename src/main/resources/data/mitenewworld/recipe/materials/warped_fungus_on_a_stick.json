@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 120,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:fishing_rod",
+    "X": "minecraft:warped_fungus"
+  },
+  "pattern": [
+    "# ",
+    " X"
+  ],
+  "result": {
+    "id": "minecraft:warped_fungus_on_a_stick"
+  }
+}

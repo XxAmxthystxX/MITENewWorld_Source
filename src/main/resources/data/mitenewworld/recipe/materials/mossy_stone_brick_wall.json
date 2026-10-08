@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 3000,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:mossy_stone_bricks"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:mossy_stone_brick_wall"
+  }
+}

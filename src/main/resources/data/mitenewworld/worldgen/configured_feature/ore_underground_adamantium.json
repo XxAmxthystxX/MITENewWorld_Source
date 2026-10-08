@@ -1,0 +1,8 @@
+{
+  "type": "mitenewworld:mod_ore",
+  "config": {
+    "background": "underground",
+    "metal": "adamantium",
+    "size": 3
+  }
+}

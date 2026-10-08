@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "blocks",
+  "input": [
+    "minecraft:orange_terracotta"
+  ],
+  "result": {
+    "id": "minecraft:orange_glazed_terracotta"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 2
+}

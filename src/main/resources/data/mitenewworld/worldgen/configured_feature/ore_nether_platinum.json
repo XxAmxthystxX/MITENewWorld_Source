@@ -1,0 +1,8 @@
+{
+  "type": "mitenewworld:mod_ore",
+  "config": {
+    "background": "nether",
+    "metal": "platinum",
+    "size": 4
+  }
+}

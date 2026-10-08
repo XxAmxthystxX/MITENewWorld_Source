@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:fishing_rod",
+    "X": "minecraft:carrot"
+  },
+  "pattern": [
+    "# ",
+    " X"
+  ],
+  "result": {
+    "id": "minecraft:carrot_on_a_stick"
+  }
+}

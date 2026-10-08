@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+"craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "group": "shelf",
+  "key": {
+    "#": "minecraft:stripped_acacia_log"
+  },
+  "pattern": [
+    "###",
+    "   ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:acacia_shelf"
+  }
+}

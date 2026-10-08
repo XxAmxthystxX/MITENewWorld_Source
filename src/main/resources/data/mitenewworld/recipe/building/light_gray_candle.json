@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "dyed_candle",
+  "key": {
+    "W": "minecraft:candle",
+    "E": "minecraft:light_gray_dye"
+  },
+  "pattern": [
+    "WE"
+  ],
+  "result": {
+    "id": "minecraft:light_gray_candle"
+  }
+}

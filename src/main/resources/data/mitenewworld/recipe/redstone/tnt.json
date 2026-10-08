@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 400,
+  "category": "redstone",
+  "key": {
+    "#": [
+      "minecraft:sand",
+      "minecraft:red_sand"
+    ],
+    "X": "minecraft:gunpowder"
+  },
+  "pattern": [
+    "X#X",
+    "#X#",
+    "X#X"
+  ],
+  "result": {
+    "id": "minecraft:tnt"
+  }
+}

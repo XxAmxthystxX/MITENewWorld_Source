@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 120,
+  "category": "redstone",
+  "key": {
+    "P": "minecraft:piston",
+    "S": "minecraft:slime_ball"
+  },
+  "pattern": [
+    "S",
+    "P"
+  ],
+  "result": {
+    "id": "minecraft:sticky_piston"
+  }
+}

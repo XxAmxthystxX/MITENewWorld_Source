@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:ancient_debris"
+  ],
+  "result": {
+    "id": "minecraft:netherite_scrap"
+  },
+  "experience": 2.0,
+  "burntick": 200,
+  "furnacelevel": 1
+}

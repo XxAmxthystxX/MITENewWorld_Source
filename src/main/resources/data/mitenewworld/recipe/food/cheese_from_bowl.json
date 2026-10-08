@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 1600,
+  "category": "misc",
+  "group": "food",
+  "key": {
+    "#": "mitenewworld:bowl_of_milk"
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:cheese"
+  }
+}

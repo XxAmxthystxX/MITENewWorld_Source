@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 270,
+  "category": "building",
+  "group": "wooden_slab",
+  "key": {
+    "#": "minecraft:bamboo_planks"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:bamboo_slab"
+  }
+}

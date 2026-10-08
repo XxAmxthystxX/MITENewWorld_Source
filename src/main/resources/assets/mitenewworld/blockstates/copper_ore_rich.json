@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mitenewworld:block/ore/copper_ore_rich"
+    }
+  }
+}

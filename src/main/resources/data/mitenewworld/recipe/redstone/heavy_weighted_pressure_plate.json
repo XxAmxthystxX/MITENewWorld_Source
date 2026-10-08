@@ -1,0 +1,15 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 2400,
+  "category": "redstone",
+  "key": {
+    "#": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "minecraft:heavy_weighted_pressure_plate"
+  }
+}

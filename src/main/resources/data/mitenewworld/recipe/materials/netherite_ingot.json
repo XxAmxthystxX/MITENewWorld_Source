@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 5,
+  "craftingtick": 200,
+  "category": "misc",
+  "group": "misc",
+  "key": {
+    "S": "minecraft:netherite_scrap",
+    "G": "minecraft:glowstone_dust"
+  },
+  "pattern": [
+    "SGS",
+    "G G",
+    "SGS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_ingot"
+  }
+}

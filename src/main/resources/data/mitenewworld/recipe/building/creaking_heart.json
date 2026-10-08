@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "key": {
+    "L": "minecraft:pale_oak_log",
+    "R": "minecraft:resin_block"
+  },
+  "pattern": [
+    " L ",
+    " R ",
+    " L "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:creaking_heart"
+  }
+}

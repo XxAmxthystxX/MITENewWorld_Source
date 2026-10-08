@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mitenewworld:block/metal/adamantium_block"
+  }
+}

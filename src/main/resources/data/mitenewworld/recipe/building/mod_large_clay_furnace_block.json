@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 500,
+  "category": "building",
+  "group": "furnace",
+  "key": {
+    "#": "minecraft:brick"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_large_clay_furnace_block"
+  }
+}

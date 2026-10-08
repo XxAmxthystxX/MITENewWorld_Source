@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mitenewworld:item/armor/alloy/alloy_leggings",
+    "tints": [
+      {
+        "type": "mitenewworld:alloy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 1600,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "mitenewworld:alloy_ingot"
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "X X"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:rail"
+  }
+}

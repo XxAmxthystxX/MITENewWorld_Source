@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 5,
+  "craftingtick": 800,
+  "category": "building",
+  "group": "crafttable",
+  "key": {
+    "#": "minecraft:leather",
+    "W": "#minecraft:planks",
+    "S": "mitenewworld:ancient_metal_toolbox",
+    "D": "minecraft:stick"
+  },
+  "pattern": [
+    "S#",
+    "DW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:mod_ancient_metal_crafting_table_block"
+  }
+}

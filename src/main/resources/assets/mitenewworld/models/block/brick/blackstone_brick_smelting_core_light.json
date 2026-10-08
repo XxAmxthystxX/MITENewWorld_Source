@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mitenewworld:block/brick/blackstone_brick",
+    "north": "mitenewworld:block/brick/blackstone_brick_core_light",
+    "south": "mitenewworld:block/brick/blackstone_brick_core_light",
+    "east": "mitenewworld:block/brick/blackstone_brick",
+    "west": "mitenewworld:block/brick/blackstone_brick",
+    "up": "mitenewworld:block/brick/blackstone_brick",
+    "down": "mitenewworld:block/brick/blackstone_brick"
+  }
+}

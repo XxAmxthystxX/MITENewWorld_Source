@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 6,
+  "craftingtick": 80000,
+  "category": "misc",
+  "group": "netherite_ingot",
+  "key": {
+    "W": "minecraft:netherite_block"
+  },
+  "pattern": [
+    "W"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:netherite_ingot"
+  }
+}

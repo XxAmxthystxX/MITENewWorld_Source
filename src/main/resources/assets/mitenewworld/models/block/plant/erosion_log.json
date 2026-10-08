@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mitenewworld:block/plant/erosion_log_top",
+    "east": "mitenewworld:block/plant/erosion_log",
+    "north": "mitenewworld:block/plant/erosion_log",
+    "particle": "mitenewworld:block/plant/erosion_log",
+    "south": "mitenewworld:block/plant/erosion_log",
+    "up": "mitenewworld:block/plant/erosion_log_top",
+    "west": "mitenewworld:block/plant/erosion_log"
+  }
+}

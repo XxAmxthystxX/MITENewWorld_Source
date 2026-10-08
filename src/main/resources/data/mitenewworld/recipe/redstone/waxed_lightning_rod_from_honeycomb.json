@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "building",
+  "group": "waxed_lightning_rod",
+
+  "key": {
+    "#": "minecraft:lightning_rod",
+    "X": "minecraft:honeycomb"
+  },
+  "pattern": [
+    "#X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:waxed_lightning_rod"
+  }
+}

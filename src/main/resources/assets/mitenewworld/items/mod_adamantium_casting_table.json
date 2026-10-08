@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mitenewworld:block/machine/castingtable/casting_table_damaged_0",
+    "tints": [
+      {
+        "type": "mitenewworld:casting_table"
+      }
+    ]
+  }
+}

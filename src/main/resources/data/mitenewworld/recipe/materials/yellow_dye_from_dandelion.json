@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "yellow_dye",
+  "key": {
+    "#": "minecraft:dandelion"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:yellow_dye"
+  }
+}

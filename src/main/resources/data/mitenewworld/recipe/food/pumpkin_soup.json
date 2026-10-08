@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 360,
+  "category": "misc",
+  "group": "food",
+  "key": {
+    "#": "mitenewworld:water_bowl",
+    "W": "minecraft:pumpkin"
+  },
+  "pattern": [
+    "#W"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:pumpkin_soup"
+  }
+}

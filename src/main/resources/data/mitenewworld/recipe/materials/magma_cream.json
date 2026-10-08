@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 3,
+  "craftingtick": 320,
+  "category": "misc",
+  "key": {
+    "E": "minecraft:blaze_powder",
+    "W": "minecraft:slime_ball"
+  },
+  "pattern": [
+    "WE"
+  ],
+  "result": {
+    "id": "minecraft:magma_cream"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:blue_dye",
+    "W": "minecraft:red_dye"
+  },
+  "pattern": [
+    "W#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:purple_dye"
+  }
+}

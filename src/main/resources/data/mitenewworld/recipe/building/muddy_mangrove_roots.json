@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 120,
+  "category": "building",
+  "key": {
+    "W": "minecraft:mud",
+    "E": "minecraft:mangrove_roots"
+  },
+  "pattern": [
+    "WE"
+  ],
+  "result": {
+    "id": "minecraft:muddy_mangrove_roots"
+  }
+}

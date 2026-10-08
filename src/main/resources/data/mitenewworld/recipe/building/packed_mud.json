@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 300,
+  "category": "building",
+  "key": {
+    "#": "minecraft:mud",
+    "W": "minecraft:wheat"
+  },
+  "pattern": [
+    "W#W",
+    "#W#",
+    "W#W"
+  ],
+  "result": {
+    "id": "minecraft:packed_mud"
+  }
+}

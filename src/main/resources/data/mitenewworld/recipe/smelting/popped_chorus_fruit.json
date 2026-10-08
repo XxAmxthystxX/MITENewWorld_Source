@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:chorus_fruit"
+  ],
+  "result": {
+    "id": "minecraft:popped_chorus_fruit"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 1
+}

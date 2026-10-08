@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 720,
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": "minecraft:oak_planks"
+  },
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:oak_boat"
+  }
+}

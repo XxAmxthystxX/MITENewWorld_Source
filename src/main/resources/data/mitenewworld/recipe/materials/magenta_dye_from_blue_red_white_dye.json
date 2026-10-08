@@ -1,0 +1,21 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "magenta_dye",
+  "key": {
+    "W": "minecraft:blue_dye",
+    "E": "minecraft:red_dye",
+    "R": "minecraft:red_dye",
+    "T": "minecraft:white_dye"
+  },
+  "pattern": [
+    "WE",
+    "TR"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:magenta_dye"
+  }
+}

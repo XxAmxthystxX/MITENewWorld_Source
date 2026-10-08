@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 300,
+  "category": "building",
+  "group": "planks",
+  "key": {
+    "#": "#minecraft:spruce_logs"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:spruce_planks"
+  }
+}

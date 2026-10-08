@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "group": "orange_dye",
+  "key": {
+    "#": "minecraft:open_eyeblossom"
+  },
+  "pattern": [
+    "#"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:orange_dye"
+  }
+}

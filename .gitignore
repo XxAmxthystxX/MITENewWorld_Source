@@ -1,0 +1,47 @@
+# ===== Gradle =====
+.gradle/
+build/
+out/
+classes/
+
+# ===== IDE =====
+# 若希望团队共享运行配置，可改为只忽略 .idea/workspace.xml 等本地文件
+.idea/
+*.iml
+*.ipr
+*.iws
+*.launch
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# ===== Minecraft / Fabric 运行目录 =====
+run/
+logs/
+crash-reports/
+
+# ===== 本地工具与预览 =====
+.workbuddy/
+*.local
+
+# ===== macOS / OS =====
+*.DS_Store
+Thumbs.db
+
+# ===== Java =====
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# ===== 临时 / 调试产物 =====
+# NBT-JSON 转换器等 devtools 的输出（可随时重新生成）
+path_to_output_json_file.json
+path_to_output_nbt_file.dat
+# 编辑器 / 重构备份
+*.bak
+*.orig
+*.rej
+*.tmp

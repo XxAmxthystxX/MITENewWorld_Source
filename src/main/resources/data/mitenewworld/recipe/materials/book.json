@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 300,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:paper",
+    "W": "minecraft:leather"
+  },
+  "pattern": [
+    " W ",
+    "###",
+    " W "
+  ],
+  "result": {
+    "id": "minecraft:book"
+  }
+}

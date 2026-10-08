@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 540,
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": "minecraft:bamboo_planks"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:bamboo_stairs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": "#minecraft:logs_that_burn",
+  "result": {
+    "id": "minecraft:charcoal"
+  },
+  "experience": 0.15,
+  "burntick": 200,
+  "furnacelevel": 1
+}

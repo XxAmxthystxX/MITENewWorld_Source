@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mitenewworld:block/ore/adamantium_ore"
+  }
+}

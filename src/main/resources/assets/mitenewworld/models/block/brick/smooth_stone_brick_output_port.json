@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mitenewworld:block/brick/smooth_stone_brick",
+    "north": "mitenewworld:block/brick/smooth_stone_brick_output",
+    "south": "mitenewworld:block/brick/smooth_stone_brick_output",
+    "east": "mitenewworld:block/brick/smooth_stone_brick",
+    "west": "mitenewworld:block/brick/smooth_stone_brick",
+    "up": "mitenewworld:block/brick/smooth_stone_brick",
+    "down": "mitenewworld:block/brick/smooth_stone_brick"
+  }
+}

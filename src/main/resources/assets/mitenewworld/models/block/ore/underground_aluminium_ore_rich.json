@@ -1,0 +1,98 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "mitenewworld:block/terrain/underworld_stone",
+    "background": "mitenewworld:block/terrain/underworld_stone",
+    "ore": "mitenewworld:block/ore/overlay/aluminium_rich"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#background",
+          "tintindex": 0,
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#background",
+          "tintindex": 0,
+          "cullface": "up"
+        },
+        "north": {
+          "texture": "#background",
+          "tintindex": 0,
+          "cullface": "north"
+        },
+        "south": {
+          "texture": "#background",
+          "tintindex": 0,
+          "cullface": "south"
+        },
+        "west": {
+          "texture": "#background",
+          "tintindex": 0,
+          "cullface": "west"
+        },
+        "east": {
+          "texture": "#background",
+          "tintindex": 0,
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "from": [
+        -0.002,
+        -0.002,
+        -0.002
+      ],
+      "to": [
+        16.002,
+        16.002,
+        16.002
+      ],
+      "faces": {
+        "down": {
+          "texture": "#ore",
+          "tintindex": -1,
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#ore",
+          "tintindex": -1,
+          "cullface": "up"
+        },
+        "north": {
+          "texture": "#ore",
+          "tintindex": -1,
+          "cullface": "north"
+        },
+        "south": {
+          "texture": "#ore",
+          "tintindex": -1,
+          "cullface": "south"
+        },
+        "west": {
+          "texture": "#ore",
+          "tintindex": -1,
+          "cullface": "west"
+        },
+        "east": {
+          "texture": "#ore",
+          "tintindex": -1,
+          "cullface": "east"
+        }
+      }
+    }
+  ]
+}

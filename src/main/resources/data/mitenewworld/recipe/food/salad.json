@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "food",
+  "key": {
+    "#": "minecraft:dandelion",
+    "S": "minecraft:bowl"
+  },
+  "pattern": [
+    "##",
+    "#S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:salad"
+  }
+}

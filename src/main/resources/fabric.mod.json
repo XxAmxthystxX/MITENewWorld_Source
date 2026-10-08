@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "mitenewworld",
+	"version": "${version}",
+	"name": "MITENewWorld",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Amethyst"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/mitenewworld/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mitenewworld.MITENewWorld",
+			"com.mitenewworld.MITENewWorldServer"
+		],
+		"fabric-datagen": [
+			"com.mitenewworld.MITENewWorldDataGenerator"
+		],
+		"client": [
+			"com.mitenewworld.MITENewWorldClient"
+        ]
+	},
+	"mixins": [
+		"mitenewworld.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"accessWidener": "mitenewworld.accesswidener",
+	"suggests": {
+		"another-mod": "*"
+	}
+}

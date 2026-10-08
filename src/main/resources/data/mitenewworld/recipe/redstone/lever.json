@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 300,
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:cobblestone",
+    "X": "minecraft:stick"
+  },
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:lever"
+  }
+}

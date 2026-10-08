@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 4,
+  "craftingtick": 250,
+  "category": "building",
+  "key": {
+    "M": "minecraft:quartz_slab"
+  },
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:quartz_brick"
+  }
+}

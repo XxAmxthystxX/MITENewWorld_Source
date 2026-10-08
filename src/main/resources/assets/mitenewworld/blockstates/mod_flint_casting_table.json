@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "damage=0,facing=north": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 0
+    },
+    "damage=0,facing=east": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 90
+    },
+    "damage=0,facing=south": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 180
+    },
+    "damage=0,facing=west": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 270
+    },
+    "damage=1,facing=north": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 0
+    },
+    "damage=1,facing=east": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 90
+    },
+    "damage=1,facing=south": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 180
+    },
+    "damage=1,facing=west": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table",
+      "y": 270
+    },
+    "damage=2,facing=north": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 0
+    },
+    "damage=2,facing=east": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 90
+    },
+    "damage=2,facing=south": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 180
+    },
+    "damage=2,facing=west": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 270
+    },
+    "damage=3,facing=north": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 0
+    },
+    "damage=3,facing=east": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 90
+    },
+    "damage=3,facing=south": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 180
+    },
+    "damage=3,facing=west": {
+      "model": "mitenewworld:block/machine/castingtable/flint_casting_table_damaged",
+      "y": 270
+    }
+  }
+}

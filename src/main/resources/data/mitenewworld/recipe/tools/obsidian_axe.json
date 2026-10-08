@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 1000,
+  "category": "equipment",
+  "group": "misc",
+  "key": {
+    "X": "minecraft:obsidian",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "XX",
+    "XS",
+    " S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:obsidian_axe"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 240,
+  "category": "equipment",
+  "group": "misc",
+  "key": {
+    "#": "minecraft:flint",
+    "W": "minecraft:stick",
+    "S": "mitenewworld:sinew"
+  },
+  "pattern": [
+    "#W",
+    "SW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:flint_hatchet"
+  }
+}

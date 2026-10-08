@@ -1,0 +1,18 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "building",
+  "group": "wool",
+  "key": {
+    "#": "minecraft:yellow_dye",
+    "W": "#minecraft:wool"
+
+  },
+  "pattern": [
+    "#W"
+  ],
+  "result": {
+    "id": "minecraft:yellow_wool"
+  }
+}

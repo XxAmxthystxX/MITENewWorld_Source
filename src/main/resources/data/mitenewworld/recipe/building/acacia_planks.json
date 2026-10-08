@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 320,
+  "category": "building",
+  "group": "planks",
+  "key": {
+    "#": "#minecraft:acacia_logs"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:acacia_planks"
+  }
+}

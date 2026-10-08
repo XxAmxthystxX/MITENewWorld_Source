@@ -1,0 +1,19 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 600,
+  "category": "misc",
+  "group": "chest_boat",
+  "key": {
+    "#": "minecraft:chest",
+    "W": "minecraft:acacia_boat"
+  },
+  "pattern": [
+    "#",
+    "W"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:acacia_chest_boat"
+  }
+}

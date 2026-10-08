@@ -1,0 +1,20 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 2,
+  "craftingtick": 800,
+  "category": "equipment",
+  "group": "misc",
+  "key": {
+    "X": "minecraft:obsidian",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "X",
+    "S",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mitenewworld:obsidian_shovel"
+  }
+}

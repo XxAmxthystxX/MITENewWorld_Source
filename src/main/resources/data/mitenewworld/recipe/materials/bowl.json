@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 360,
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:planks"
+  },
+  "pattern": [
+    "# #",
+    " # "
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:bowl"
+  }
+}

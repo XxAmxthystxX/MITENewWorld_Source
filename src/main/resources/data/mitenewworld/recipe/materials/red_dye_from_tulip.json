@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "red_dye",
+  "key": {
+    "#": "minecraft:red_tulip"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:red_dye"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "misc",
+  "input": [
+    "minecraft:coal_ore"
+  ],
+  "result": {
+    "id": "minecraft:coal"
+  },
+  "experience": 0.1,
+  "burntick": 200,
+  "furnacelevel": 1,
+  "group": "coal"
+}

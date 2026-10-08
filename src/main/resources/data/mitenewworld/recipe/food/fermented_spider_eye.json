@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 1600,
+  "category": "misc",
+  "key": {
+    "#": "minecraft:spider_eye",
+    "W": "minecraft:brown_mushroom",
+    "E": "minecraft:sugar"
+  },
+  "pattern": [
+    "W#E"
+  ],
+  "result": {
+    "id": "minecraft:fermented_spider_eye"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 1,
+  "craftingtick": 100,
+  "category": "misc",
+  "group": "bed_dye",
+  "key": {
+    "#": "minecraft:light_blue_dye",
+    "W": "#minecraft:beds"
+  },
+  "pattern": [
+    "#W"
+  ],
+  "result": {
+    "id": "minecraft:light_blue_bed"
+  }
+}

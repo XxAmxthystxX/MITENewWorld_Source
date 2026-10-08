@@ -1,0 +1,16 @@
+{
+  "type": "mitenewworld:mod_crafting_shaped",
+  "craftlevel": 0,
+  "craftingtick": 2400,
+  "category": "misc",
+  "group": "sugar",
+  "key": {
+    "#": "minecraft:sugar_cane"
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:sugar"
+  }
+}

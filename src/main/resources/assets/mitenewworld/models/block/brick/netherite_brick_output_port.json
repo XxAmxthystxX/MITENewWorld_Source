@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mitenewworld:block/brick/netherite_brick",
+    "north": "mitenewworld:block/brick/netherite_brick_output",
+    "south": "mitenewworld:block/brick/netherite_brick_output",
+    "east": "mitenewworld:block/brick/netherite_brick",
+    "west": "mitenewworld:block/brick/netherite_brick",
+    "up": "mitenewworld:block/brick/netherite_brick",
+    "down": "mitenewworld:block/brick/netherite_brick"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mitenewworld:block/ore/iron_ore_rich"
+    }
+  }
+}

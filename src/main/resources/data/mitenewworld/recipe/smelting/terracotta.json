@@ -1,0 +1,13 @@
+{
+  "type": "mitenewworld:modfurnace",
+  "category": "blocks",
+  "input": [
+    "minecraft:clay"
+  ],
+  "result": {
+    "id": "minecraft:terracotta"
+  },
+  "experience": 0.35,
+  "burntick": 200,
+  "furnacelevel": 1
+}
